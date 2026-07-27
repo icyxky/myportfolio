@@ -1,9 +1,9 @@
 // auto typing
 let typed = new Typed('.position', {
     strings: ["Fresh Graduate of Informatics Engineering @UNIKOM"],
-    backSpeed: 50,
-    typeSpeed: 70,
-    loop: true
+    // backSpeed: 50,
+    // typeSpeed: 70,
+    // loop: true
 });
 
 // Navbar effects scroll
